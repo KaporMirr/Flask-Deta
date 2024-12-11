@@ -1,17 +1,7 @@
-# Enviroments
-venv
-.venv
-env
-.env
 
-# Python
-__pycache__
 
-# Visual Studio Code
-.vscode
+#Pypica si
+.kosmns s
 
-#Pypi
-.pypirc
-
-dist
-.dist
+disti
+.distyp
